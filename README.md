@@ -1,0 +1,3 @@
+# Python Function: Handling Empty Lists and Non-Numeric Values in Average Calculation
+
+This repository demonstrates a common error in Python functions: not handling edge cases such as empty input lists or lists containing non-numeric values. The `calculate_average()` function in `bug.py` does not perform these checks, resulting in exceptions.  The corrected version in `bugSolution.py` addresses these issues.
